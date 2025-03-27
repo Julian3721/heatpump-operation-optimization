@@ -1,2 +1,0 @@
-This model focuses on optimizing the operation of a heat pump combined with a buffer storage system to improve energy efficiency and reduce costs. It includes live data for temperature and an example Excel-sheet for historical electricity prices in order to determine the optimal operation of the heat pump in real time. For calculation purposes you will be asked to enter some information about the attributes of your house. 
- 
